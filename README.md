@@ -17,10 +17,10 @@ Seattle · the Eastside · Snohomish County
 
 ## 🏡 Showcases
 
-| | |
-|:---:|:---:|
-| <a href="2026-11-queen-anne-airbnb/"><img src="2026-11-queen-anne-airbnb/photos/balcony-city-view.jpg" alt="Queen Anne Airbnb"></a> | <a href="2026-09-junction-retreat-airbnb/"><img src="2026-09-junction-retreat-airbnb/photos/front-sunset-cover.jpg" alt="The Junction Retreat"></a> |
-| **[Queen Anne Airbnb](2026-11-queen-anne-airbnb/)**<br>7-bedroom short-term rental · Nov 2026<br>✨ Before & afters inside | **[The Junction Retreat](2026-09-junction-retreat-airbnb/)**<br>West Seattle Airbnb · Sep 2026<br>Photos, drone & walkthrough video |
+<table>
+<tr><td width="50%" align="center" valign="top"><a href="2026-11-queen-anne-airbnb/"><img width="100%" src="2026-11-queen-anne-airbnb/photos/balcony-city-view.jpg" alt="Queen Anne Airbnb"></a></td><td width="50%" align="center" valign="top"><a href="2026-09-junction-retreat-airbnb/"><img width="100%" src="2026-09-junction-retreat-airbnb/photos/front-sunset-cover.jpg" alt="The Junction Retreat"></a></td></tr>
+<tr><td width="50%" align="center" valign="top"><b><a href="2026-11-queen-anne-airbnb/">Queen Anne Airbnb</a></b><br>7-bedroom short-term rental · Nov 2026<br>✨ Before & afters inside</td><td width="50%" align="center" valign="top"><b><a href="2026-09-junction-retreat-airbnb/">The Junction Retreat</a></b><br>West Seattle Airbnb · Sep 2026<br>Photos, drone & walkthrough video</td></tr>
+</table>
 
 ---
 

@@ -8,13 +8,13 @@
 
 </div>
 
-| | |
-|---|---|
-| **Client** | Ben Frost · [Cascadia STR](https://cascadiastr.com) |
-| **Property** | 7-bedroom Airbnb, upper and lower units |
-| **Area** | Queen Anne, Seattle |
-| **Shot** | November 2026 |
-| **Delivered** | 55 edited photos, in listing order |
+<table>
+<tr><td width="28%" valign="top"><b>Client</b></td><td valign="top">Ben Frost · <a href="https://cascadiastr.com">Cascadia STR</a></td></tr>
+<tr><td width="28%" valign="top"><b>Property</b></td><td valign="top">7-bedroom Airbnb, upper and lower units</td></tr>
+<tr><td width="28%" valign="top"><b>Area</b></td><td valign="top">Queen Anne, Seattle</td></tr>
+<tr><td width="28%" valign="top"><b>Shot</b></td><td valign="top">November 2026</td></tr>
+<tr><td width="28%" valign="top"><b>Delivered</b></td><td valign="top">55 edited photos, in listing order</td></tr>
+</table>
 
 ---
 
@@ -48,13 +48,13 @@ Every frame gets the same treatment: HDR blending, window pulls, straight vertic
 
 ## 📸 The gallery
 
-| | |
-|---|---|
-| <img src="photos/living-room.jpg" alt="Living room with fireplace"> | <img src="photos/living-room-2.jpg" alt="Living room by the front door and staircase"> |
-| <img src="photos/kitchen.jpg" alt="White kitchen with checkered floor"> | <img src="photos/dining-room.jpg" alt="Dining room set for a large group"> |
-| <img src="photos/primary-bedroom.jpg" alt="Primary bedroom with sitting area"> | <img src="photos/jetted-tub.jpg" alt="Jetted tub with balcony view"> |
-| <img src="photos/bunk-room.jpg" alt="Bunk room"> | <img src="photos/sunroom.jpg" alt="Sunroom with built-in seating"> |
-| <img src="photos/pergola-city-view.jpg" alt="Pergola deck seating"> | <img src="photos/fire-pit-deck.jpg" alt="Fire pit deck"> |
+<table>
+<tr><td width="50%" align="center" valign="top"><img width="100%" src="photos/living-room.jpg" alt="Living room with fireplace"></td><td width="50%" align="center" valign="top"><img width="100%" src="photos/living-room-2.jpg" alt="Living room by the front door and staircase"></td></tr>
+<tr><td width="50%" align="center" valign="top"><img width="100%" src="photos/kitchen.jpg" alt="White kitchen with checkered floor"></td><td width="50%" align="center" valign="top"><img width="100%" src="photos/dining-room.jpg" alt="Dining room set for a large group"></td></tr>
+<tr><td width="50%" align="center" valign="top"><img width="100%" src="photos/primary-bedroom.jpg" alt="Primary bedroom with sitting area"></td><td width="50%" align="center" valign="top"><img width="100%" src="photos/jetted-tub.jpg" alt="Jetted tub with balcony view"></td></tr>
+<tr><td width="50%" align="center" valign="top"><img width="100%" src="photos/bunk-room.jpg" alt="Bunk room"></td><td width="50%" align="center" valign="top"><img width="100%" src="photos/sunroom.jpg" alt="Sunroom with built-in seating"></td></tr>
+<tr><td width="50%" align="center" valign="top"><img width="100%" src="photos/pergola-city-view.jpg" alt="Pergola deck seating"></td><td width="50%" align="center" valign="top"><img width="100%" src="photos/fire-pit-deck.jpg" alt="Fire pit deck"></td></tr>
+</table>
 
 ---
 
