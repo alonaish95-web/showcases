@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/pacific-haus-media-logo.png" alt="Pacific Haus Media logo" width="140">
+
 # Pacific Haus Media · Showcases
 ### Real estate, Airbnb and new-build photography from Seattle, the Eastside and Snohomish County
 
