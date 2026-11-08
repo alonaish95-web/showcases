@@ -17,14 +17,18 @@ Seattle · the Eastside · Snohomish County
 
 ## 🏡 Showcases
 
-<a href="2026-09-junction-retreat-airbnb/"><img src="2026-09-junction-retreat-airbnb/photos/front-sunset-cover.jpg" alt="The Junction Retreat" width="100%"></a>
+<table>
+<tr><td width="50%" align="center" valign="top"><a href="2026-11-queen-anne-airbnb/"><img width="100%" src="2026-11-queen-anne-airbnb/photos/balcony-city-view.jpg" alt="Queen Anne Airbnb"></a></td><td width="50%" align="center" valign="top"><a href="2026-09-junction-retreat-airbnb/"><img width="100%" src="2026-09-junction-retreat-airbnb/photos/front-sunset-cover.jpg" alt="The Junction Retreat"></a></td></tr>
+<tr><td width="50%" align="center" valign="top"><b><a href="2026-11-queen-anne-airbnb/">Queen Anne Airbnb</a></b><br>7 bedrooms · Nov 2026<br>✨ Old listing vs. new photos</td><td width="50%" align="center" valign="top"><b><a href="2026-09-junction-retreat-airbnb/">The Junction Retreat</a></b><br>West Seattle Airbnb · Sep 2026<br>Photos, drone & walkthrough video</td></tr>
+</table>
 
-<div align="center">
+---
 
-<b><a href="2026-09-junction-retreat-airbnb/">The Junction Retreat</a></b><br>
-West Seattle Airbnb · Sep 2026 · Photos, drone & walkthrough video
+## ✨ Before & after
 
-</div>
+<a href="2026-11-queen-anne-airbnb/"><img src="2026-11-queen-anne-airbnb/before-after/tub.jpg" alt="Old listing photo next to the new Pacific Haus Media photo" width="100%"></a>
+
+The old Airbnb listing photo on the left, ours on the right. [See all four →](2026-11-queen-anne-airbnb/)
 
 ---
 
@@ -32,6 +36,7 @@ West Seattle Airbnb · Sep 2026 · Photos, drone & walkthrough video
 
 | Date | Shoot | Type | Area |
 |---|---|---|---|
+| Nov 2026 | [Queen Anne Airbnb](2026-11-queen-anne-airbnb/) | Airbnb · 7 bedrooms | Queen Anne, Seattle |
 | Sep 2026 | [The Junction Retreat](2026-09-junction-retreat-airbnb/) | Airbnb | West Seattle |
 
 ---
