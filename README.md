@@ -5,39 +5,46 @@
   <img src="assets/brand/logo-light.png" alt="Pacific Haus Media" width="340">
 </picture>
 
-# Pacific Haus Media · Showcases
-### Real estate, Airbnb and new-build photography from Seattle, the Eastside and Snohomish County
+### Real Estate Photography & Visual Marketing
 
-[pacifichausmedia.com](https://pacifichausmedia.com) · [Instagram @pacifichausmedia](https://www.instagram.com/pacifichausmedia)
+Seattle · the Eastside · Snohomish County
+
+[Website](https://pacifichausmedia.com) · [Instagram](https://www.instagram.com/pacifichausmedia) · [Book a shoot](https://www.pacifichausmedia.com/book)
 
 </div>
 
 ---
 
-### 📂 How this library works
+## 🏡 Showcases
 
-Each shoot gets its own folder, named by date and type.
-
-Example: `2026-11-junction-retreat-airbnb`
-
-Inside each folder:
-
-**README.md** · the story of the shoot (property type, area, services, highlights)
-
-**photos/** · the best web-size images from that shoot
+| | |
+|:---:|:---:|
+| <a href="2026-11-queen-anne-airbnb/"><img src="2026-11-queen-anne-airbnb/photos/balcony-city-view.jpg" alt="Queen Anne Airbnb"></a> | <a href="2026-09-junction-retreat-airbnb/"><img src="2026-09-junction-retreat-airbnb/photos/front-sunset-cover.jpg" alt="The Junction Retreat"></a> |
+| **[Queen Anne Airbnb](2026-11-queen-anne-airbnb/)**<br>7-bedroom short-term rental · Nov 2026<br>✨ Before & afters inside | **[The Junction Retreat](2026-09-junction-retreat-airbnb/)**<br>West Seattle Airbnb · Sep 2026<br>Photos, drone & walkthrough video |
 
 ---
 
-### 🏡 Showcases
+## ✨ Before & after
+
+<a href="2026-11-queen-anne-airbnb/#-before--after"><img src="2026-11-queen-anne-airbnb/before-after/living-room.jpg" alt="Living room before and after editing" width="100%"></a>
+
+Straight from the camera on the left, finished on the right. [See all five →](2026-11-queen-anne-airbnb/#-before--after)
+
+---
+
+## 📋 All shoots
 
 | Date | Shoot | Type | Area |
 |---|---|---|---|
-| *Coming soon* | | | |
+| Nov 2026 | [Queen Anne Airbnb](2026-11-queen-anne-airbnb/) | Airbnb · 7 bedrooms | Queen Anne, Seattle |
+| Sep 2026 | [The Junction Retreat](2026-09-junction-retreat-airbnb/) | Airbnb | West Seattle |
 
 ---
 
 <div align="center">
 
 **Want photos like these?** Book at [pacifichausmedia.com](https://pacifichausmedia.com)
+
+<sub>Each shoot has its own folder named `year-month-place-type`, with a story page and a `photos` folder.</sub>
 
 </div>
